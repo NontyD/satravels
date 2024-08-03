@@ -18,6 +18,10 @@ body {
 header {
     background-color: red;
 }
+.logo img {
+    height: 50px; /* Adjust size as needed */
+    width: auto;
+}
 /*Main content*/
 main {
     background-color: green;
