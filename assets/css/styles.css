@@ -11,12 +11,17 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: white;
+    color: yellowgreen;
     font-family: 'lato',sans-serif;
 }
 /*Header*/
 header {
-    background-color: red;
+    background-color: white;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px yellowgreen;
 }
 .logo img {
     height: 50px; /* Adjust size as needed */
