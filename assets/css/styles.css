@@ -23,6 +23,18 @@ header {
     width: 100%;
     box-shadow: 0 2px 2px yellowgreen;
 }
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+.nav-links {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+.nav-links > li {
+    margin-bottom: 1em;
+}
 .logo img {
     height: 50px; /* Adjust size as needed */
     width: auto;
