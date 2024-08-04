@@ -167,15 +167,30 @@ main {
     background: url("../images/hero.jpg") no-repeat center center/cover;
 }
 /* Footer */
-.footer {
-    background-color: gold; 
-    color: white;
-    text-align: center;
+footer {
+    background-color: gold;
     padding: 20px 0;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+    text-align: center;
 }
+
+/* Social Media Links */
+.social-media {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Space between icons */
+}
+
+.social-icon {
+    color: green; /* Change icon color to green */
+    text-decoration: none;
+    font-size: 1.5rem; /* Adjust icon size as needed */
+    transition: color 0.3s ease;
+}
+
+.social-icon:hover {
+    color: darkgreen; /* Slightly darker green on hover */
+}
+
 
 /* Media Queries */
 @media (min-width: 768px) {
