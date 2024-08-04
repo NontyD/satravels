@@ -21,7 +21,7 @@ body {
 
 /* Header */
 header {
-    background-color: white;
+    background-color: gold;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -50,19 +50,34 @@ header a {
     letter-spacing: 4px;
     list-style-type: none;
     position: absolute;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.9); /* Slightly transparent background */
     width: 100%;
     left: 0;
     padding: 1rem;
     box-shadow: 0 2px 2px black;
     display: none;
     top: 60px;
+    flex-direction: column;
+    align-items: center; /* Center align items horizontally */
 }
 
 .nav-links > li {
     margin-bottom: 1em;
 }
 
+.nav-links > li > a {
+    text-decoration: none;
+    color: gold;
+    background-color: green;
+    padding: 0.5em 1em;
+    border-radius: 25px; /* Oval shape */
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
+
+.nav-links > li > a:hover {
+    background-color: darkgreen; /* Slightly darker green on hover */
+}
 /* Nav toggle */
 #nav-toggle:checked + .nav-toggle-label + .nav-links {
     display: block;
@@ -152,9 +167,16 @@ main {
     background: url("../images/hero.jpg") no-repeat center center/cover;
 }
 /* Footer */
-footer {
-    background-color: gold;
+.footer {
+    background-color: gold; 
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
+
 /* Media Queries */
 @media (min-width: 768px) {
     .nav-links {
