@@ -13,20 +13,20 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: yellowgreen;
-    font-family: 'Roboto', sans-serif;
+    color: rgb(40, 59, 2);
+    font-family: 'Poppins', sans-serif;
     background: url(assets/images/hero.jpg) no-repeat center center/cover;
     background-size: cover;
 }
 
 /* Header */
 header {
-    background-color: gold;
+    background-color: rgb(255, 215, 0);
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 2px 2px green;
+    box-shadow: 0 2px 2px rgb(2, 51, 2);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -50,7 +50,7 @@ header a {
     letter-spacing: 4px;
     list-style-type: none;
     position: absolute;
-    background-color: rgba(255, 255, 255, 0.9); /* Slightly transparent background */
+    background-color: rgba(255, 255, 255, 0.9); 
     width: 100%;
     left: 0;
     padding: 1rem;
@@ -68,7 +68,7 @@ header a {
 .nav-links > li > a {
     text-decoration: none;
     color: gold;
-    background-color: green;
+    background-color: rgb(2, 51, 2);
     padding: 0.5em 1em;
     border-radius: 25px; /* Oval shape */
     display: inline-block;
@@ -76,7 +76,7 @@ header a {
 }
 
 .nav-links > li > a:hover {
-    background-color: darkgreen; /* Slightly darker green on hover */
+    background-color: rgb(2, 51, 2); /* Slightly darker green on hover */
 }
 /* Nav toggle */
 #nav-toggle:checked + .nav-toggle-label + .nav-links {
@@ -101,7 +101,7 @@ header a {
 .nav-toggle-label span::before,
 .nav-toggle-label span::after {
     display: block;
-    background-color: yellowgreen;
+    background-color: rgb(2, 51, 2);
     height: 3px;
     width: 25px;
     border-radius: 3px;
@@ -125,7 +125,7 @@ header a {
 
 /* Main content */
 main {
-    background-color: green;
+    background-color: rgb(2, 51, 2);
     flex: 1 0 auto;
     margin-top: 60px; /* To avoid content being hidden behind the fixed header */
 }
@@ -139,16 +139,14 @@ main {
 
 .hero {
     
-    background-color: gold;
     height: 400px;
     width: 100%;
     max-width: 1200px; /* Max width for the box */
     display: flex;
     align-items: center;
-    justify-content: center;
-    color: rgb(235, 232, 226);
+    justify-content: center;    
     text-align: center;
-    border: 1px solid #ccc; /* Border for the box */
+    border: 1px solid rgb(204, 204, 204); /* Border for the box */
     border-radius: 10px; /* Rounded corners */
     padding: 20px;
     box-sizing: border-box;
@@ -156,10 +154,10 @@ main {
 }
 
 .hero-text {
-    background-color: rgba(0, 0, 0, 0.87);
+    background-color: rgba(0, 0, 0, 0.9);
     padding: 20px;
     border-radius: 10px;
-    font-size: large;
+    font-size: large;    
 }
 .hero {
     height: 600px;
@@ -168,7 +166,7 @@ main {
 }
 /* Footer */
 footer {
-    background-color: gold;
+    background-color: rgb(255, 215, 0);
     padding: 20px 0;
     text-align: center;
 }
@@ -181,7 +179,7 @@ footer {
 }
 
 .social-icon {
-    color: green; /* Change icon color to green */
+    color: rgb(2, 51, 2); /* Change icon color to green */
     text-decoration: none;
     font-size: 1.5rem; /* Adjust icon size as needed */
     transition: color 0.3s ease;
@@ -261,7 +259,7 @@ footer {
     text-align: center;
     transition: transform 0.8s;
     transform-style: preserve-3d;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0);
 }
 
 .flip-card:hover .flip-card-inner {
@@ -277,8 +275,8 @@ footer {
 }
 
 .flip-card-front {
-    background-color: #fff;
-    color: black;
+    background-color: rgb(165, 3, 3);
+    color: rgb(0, 0, 0);
 }
 
 .flip-card-front h2 {
@@ -286,7 +284,7 @@ footer {
 }
 
 .flip-card-back {
-    background-color: #1e3a5f;
+    background-color: rgb(165, 3, 3);
     color: white;
     transform: rotateY(180deg);
     padding: 20px;
@@ -294,6 +292,7 @@ footer {
     justify-content: center;
     align-items: center;
     border-radius: 10px;
+    
 }
 
 .video-container {
@@ -309,7 +308,7 @@ video {
 }
 h1, p {
     text-align: center;
-    color: gold;
+    color: rgb(255, 215, 0);
 }
 /* Calendar Section */
 #calendar {
@@ -352,11 +351,11 @@ h1, p {
     width: 100%;
     height: 100%;
     backface-visibility: hidden;
-    border: 1px solid #ccc;
+    border: 1px solid rgb(204, 204, 204);
     border-radius: 10px;
     padding: 0; /* Removed padding */
     box-sizing: border-box;
-    background: #fff;
+    background: rgb(255, 255, 255);
     overflow: hidden;
 }
 
@@ -367,7 +366,7 @@ h1, p {
     align-items: center;
     font-size: 1.5em;
     font-weight: bold;
-    color: #333;
+    color: black;
     background: #fff;
 }
 
@@ -379,8 +378,8 @@ h1, p {
 }
 
 .calendar-front .month {
-    background-color: #006400; /* Dark green background */
-    color: white;
+    background-color: rgb(2, 51, 2); /* Dark green background */
+    color: rgb(255, 255, 255);
     width: 100%;
     text-align: center;
     padding: 10px;
@@ -398,7 +397,7 @@ h1, p {
 }
 
 .event a {
-    color: #007BFF;
+    color: rgb(2, 51, 2);
     text-decoration: none;
     font-weight: bold;
 }
@@ -420,18 +419,20 @@ h1, p {
 }
 
 .tip-card {
-    background: #f4f4f4;
-    border: 1px solid #ddd;
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(221, 221, 221);
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
     padding: 20px;
     width: 300px;
     margin: 10px;
+    color: rgb(0, 0, 0);
 }
 
 .tip-card h3 {
     margin-top: 0;
 }
+
 /* Contact Section */
 #contact {
     display: flex;
