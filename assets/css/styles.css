@@ -282,6 +282,7 @@ footer {
 
 .flip-card-front h2 {
     margin: 10px 0;
+    color: white;
 }
 
 .flip-card-back {
@@ -371,7 +372,7 @@ h1, p {
     background: rgb(255, 255, 255);
 }
 .calendar-back p {
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 .calendar-front img {
