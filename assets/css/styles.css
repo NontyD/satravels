@@ -327,6 +327,9 @@ h1, p {
 #calendar {
     padding: 20px;
 }
+#calendar p {
+    color: black; /* Override general color */
+}
 
 .calendar-container {
     display: flex;
