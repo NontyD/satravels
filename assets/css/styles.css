@@ -17,6 +17,7 @@ body {
     font-family: 'Poppins', sans-serif;
     background: url(assets/images/hero.jpg) no-repeat center center/cover;
     background-size: cover;
+    color: rgb(255, 215, 0);
 }
 
 /* Header */
@@ -308,7 +309,7 @@ video {
 }
 h1, p {
     text-align: center;
-    color: rgb(255, 215, 0);
+    
 }
 /* Calendar Section */
 #calendar {
@@ -367,7 +368,10 @@ h1, p {
     font-size: 1.5em;
     font-weight: bold;
     color: black;
-    background: #fff;
+    background: rgb(255, 255, 255);
+}
+.calendar-back p {
+    color: black;
 }
 
 .calendar-front img {
@@ -378,7 +382,7 @@ h1, p {
 }
 
 .calendar-front .month {
-    background-color: rgb(2, 51, 2); /* Dark green background */
+    background-color: rgb(2, 51, 2); 
     color: rgb(255, 255, 255);
     width: 100%;
     text-align: center;
