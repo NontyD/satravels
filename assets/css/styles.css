@@ -46,16 +46,6 @@ header a {
 }
 
 /* Navigation links */
-.sr-only {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    margin: -1px;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    border: 0;
-}
 .nav-links {
     font-size: 110%;
     letter-spacing: 4px;
@@ -290,10 +280,9 @@ footer {
     color: rgb(0, 0, 0);
 }
 
-
 .flip-card-front h2 {
     margin: 10px 0;
-    color: rgb(255, 255, 255);
+    color: white;
 }
 
 .flip-card-back {
