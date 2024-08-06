@@ -192,11 +192,11 @@ footer {
 
 
 /* Media Queries */
-@media (min-width: 768px) {
+@media (min-width: 600px) {
     .nav-links {
         position: static;
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         justify-content: flex-end;
         background: none;
         box-shadow: none;
