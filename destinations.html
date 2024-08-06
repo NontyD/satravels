@@ -22,11 +22,12 @@
 <body>
     <!--Header-->
     <header>
-        <a href="index.html" class="logo"><img src="assets/images/logo.jpg" alt="Logo"></a>
+        <a href="index.html" class="logo"><img src="assets/images/logo.jpg" alt=alt="South African Travel Guide Logo"></a>
         <input type="checkbox" id="nav-toggle" class="nav-toggle">
         <label for="nav-toggle" class="nav-toggle-label">
-            <span></span>
+            <span class="sr-only">Toggle navigation</span>
         </label>
+        <nav aria-label="Main navigation">
         <ul class="nav-links">
             <li><a href="index.html">Home</a></li>
             <li><a href="destinations.html">Destinations</a></li>
@@ -34,16 +35,17 @@
             <li><a href="calendar.html">Calendar</a></li>
             <li><a href="contact.html">Contact</a></li>
         </ul>
+        </nav>
     </header>
 
     <!--Main content-->
     <main>
         <div class="video-container">        
             <video controls muted>
-                <source src="assets/images/sarev.mp4" type="video/mp4">
+                <source src="assets/images/destinations.mp4" type="video/mp4">
             </video>
         </div>
-        <h1>Soth Africa's top destinations</h1>
+        <h1>South Africa's top destinations</h1>
         <p>Flip the card to find out more</p>
         <div class="cards-container">
             <div class="flip-card">
