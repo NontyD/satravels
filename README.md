@@ -1,22 +1,38 @@
 ![SA Travels website](/assets/images/readme/home-resp.png)
 
-Welcome NontyD Dazana,
+## South African Travel Guide
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Welcome to the South African Travel Guide, your ultimate resource for exploring the beautiful and diverse landscapes of South Africa. My website is designed to provide you with all the information you need to plan an unforgettable trip, from top destinations and local events to essential travel tips and more. My website comprises of five pages as follows:
 
-You can safely delete this README.md file or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **June 18, 2024**
+# Home
 
-## Gitpod Reminders
+The Home Page serves as a brief introduction to our travel guide. Here, you will find a warm welcome and an overview of what our website offers. Start your journey here to get a sense of the adventures that await you in South Africa.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+# Destinations
 
-`python3 -m http.server`
+On the Destinations Page, you can explore the top travel spots across South Africa. This page begins with an engaging video introduction that showcases the beauty and diversity of these destinations. Below the video, you'll find cards for each destination. Each card features:
+### A captivating destination picture on the front.
+### Descriptive text on the back, offering insights into what makes each location special.
 
-A blue button should appear to click: _Make Public_,
+# Calendar
 
-Another blue button should appear to click: _Open Browser_.
+The Calendar Page provides a month-by-month guide to South Africa's weather and events. Each month's section includes:
 
-To run a backend Python file, type `python3 app.py` if your Python file is named `app.py`, of course.
+### A picture illustrating the typical weather for that month.
+### On the reverse side, a list of notable events with links for more detailed information.
+
+This page is perfect for planning your visit around the best weather and the most exciting events.
+
+# Travel tips
+
+The Travel Tips Page is a valuable resource for general travel advice. Whether you’re a first-time visitor or a seasoned traveler, you’ll find useful tips to enhance your trip.
+
+# Contact
+
+I would love to hear from you! The Contact Page features a simple form where you can reach out to us with any questions, feedback, or inquiries. Whether you need more information or have specific requests, I'm here to help.
+
+
+
 
 A blue button should appear to click: _Make Public_,
 
