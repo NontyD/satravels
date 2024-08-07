@@ -11,15 +11,15 @@ The Home Page serves as a brief introduction to our travel guide. Here, you will
 # Destinations
 
 On the Destinations Page, you can explore the top travel spots across South Africa. This page begins with an engaging video introduction that showcases the beauty and diversity of these destinations. Below the video, you'll find cards for each destination. Each card features:
-### A captivating destination picture on the front.
-### Descriptive text on the back, offering insights into what makes each location special.
+* A captivating destination picture on the front.
+* Descriptive text on the back, offering insights into what makes each location special.
 
 # Calendar
 
 The Calendar Page provides a month-by-month guide to South Africa's weather and events. Each month's section includes:
 
-### A picture illustrating the typical weather for that month.
-### On the reverse side, a list of notable events with links for more detailed information.
+* A picture illustrating the typical weather for that month.
+* On the reverse side, a list of notable events with links for more detailed information.
 
 This page is perfect for planning your visit around the best weather and the most exciting events.
 
