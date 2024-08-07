@@ -69,7 +69,7 @@ I would love to hear from you! The Contact Page features a simple form where you
 ## Design
 ## Color scheme
 
-![SA Flag](/assets/images/readme/SA_flag.png)
+![SA Flag](/assets/images/readme/)
 
 My website's color scheme is inspired by the vibrant and diverse colors of the South African flag. The use of these colors not only enhances the visual appeal of my site but also reflects the rich cultural heritage and natural beauty of South Africa. To ensure readability and accessibility, I have adjusted the darker shades to provide better contrast.
 
