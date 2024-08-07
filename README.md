@@ -1,4 +1,4 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![SA Travels website](/assets/images/readme/home-resp.png)
 
 Welcome NontyD Dazana,
 
