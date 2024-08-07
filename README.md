@@ -63,6 +63,45 @@ I would love to hear from you! The Contact Page features a simple form where you
   * Content
   * Media
   * Acknowledgement
+## User Experience
+
+### User stories
+## Design
+## Color scheme
+
+![SA Flag](/assets/images/readme/SA_flag.png)
+
+My website's color scheme is inspired by the vibrant and diverse colors of the South African flag. The use of these colors not only enhances the visual appeal of my site but also reflects the rich cultural heritage and natural beauty of South Africa. To ensure readability and accessibility, I have adjusted the darker shades to provide better contrast.
+
+To enhance accessibility and ensure that all users, including those with visual impairments, can comfortably interact with our website, I have adjusted the darker shades of the color palette. This approach ensures that there is sufficient contrast between text and background elements, making the content easy to read and navigate.
+
+   ### Typography
+   ### Imagery
+   ### Wireframes
+   ### Features
+     #### Home
+     #### Destinations
+     #### Calendar
+     #### Travel tips
+     #### Contact
+  ### Accessibility
+## Technologies used
+  ### Languages used
+  ### Frameworks, libraries and programs used
+## Deployment and local development
+### Deployment
+  ### Local Development
+#### How to fork
+    #### How to clone
+### Testing
+#### Solved bugs
+  #### Known bugs 
+## Credits
+### Code used
+  ### Content
+  ### Media
+  ### Acknowledgement
+
 
 
 
