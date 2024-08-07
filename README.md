@@ -66,12 +66,96 @@ I would love to hear from you! The Contact Page features a simple form where you
 ## User Experience
 
 ### User stories
+
+### First time visitor
+
+#### As a first time visitor, I want to:
+
+1. **Understand the Purpose of the Website:**
+
+**Goal:** Quickly grasp what the website offers.
+**Experience:** I land on the homepage and immediately see a clear and welcoming introduction to the travel guide.
+The navigation is intuitive, with clear labels for each section (Destinations, Calendar, Travel Tips, Contact).
+
+2. **Explore Top Destinations:**
+
+**Goal:** Discover interesting places to visit in South Africa.
+**Experience:** I navigate to the Destinations page, watch the introductory video, and browse through the destination cards.
+Each card provides a captivating image and informative description, helping me to decide where I might want to go.
+
+3. **Plan My Visit:**
+
+**Goal:** Get an idea of the best time to visit and what events might be happening.
+**Experience:** I visit the Calendar page, where I see monthly weather images and event information.
+The links provided help me find more details about events that interest me.
+
+4. **Learn Travel Tips:**
+
+**Goal:** Get general advice to make my trip smoother and more enjoyable.
+**Experience:** I read through the Travel Tips page, finding useful information on safety, packing, and cultural insights.
+
+5. **Contact for More Information:**
+
+**Goal:** Reach out with specific questions or requests.
+**Experience:** I fill out the contact form easily, knowing that I can get personalized assistance if needed.
+
+### Returning Visitor
+#### As a returning visitor, I want to:
+
+1. **Find Updated Information Quickly:**
+
+**Goal:** Check for new events or updated travel tips.
+**Experience:** I quickly navigate to the Calendar page to see if there are any new events listed for my planned travel dates.
+I check the Travel Tips page for any new advice or updates that might be useful.
+
+2. **Revisit Favorite Destinations:**
+
+**Goal:** Re-read information about destinations I’m considering visiting.
+**Experience:** I go back to the Destinations page, where familiar cards help me recall why I was interested in these places.
+The detailed descriptions reinforce my travel plans.
+
+3. **Stay Informed on New Content:**
+
+**Goal:** Be aware of any new additions to the site.
+**Experience:** I notice any announcements or new sections highlighted on the homepage.
+The site’s layout and updates are easy to follow, ensuring I don’t miss out on new information.
+
+### Frequent Visitor
+#### As a frequent visitor, I want to:
+
+1. **Have a Seamless Experience:**
+
+**Goal:** Quickly navigate to sections of interest without unnecessary steps.
+**Experience:** The website’s intuitive design allows me to access the Destinations, Calendar, and Travel Tips pages efficiently.
+I appreciate the consistent layout and easy-to-find information.
+
+2. **Receive the Latest Updates and Tips:**
+
+**Goal:** Stay current with the latest travel advice and event updates.
+**Experience:** I check the Calendar and Travel Tips pages regularly for new content.
+Notifications or updates on the homepage alert me to any significant changes or additions.
+
+3. **Engage with New Content:**
+
+**Goal:** Discover any new destinations or features added to the site.
+**Experience:** I explore any newly added destination cards and videos, staying engaged with fresh content.
+Regular updates keep my interest piqued, and I feel more connected to the site.
+
+4. **Provide Feedback and Suggestions:**
+
+**Goal:** Share my experiences and help improve the site.
+**Experience:** I use the contact form to provide feedback or suggest new features or content.
+The responsiveness of the site’s support team makes me feel valued as a frequent visitor.
+
+
+
+
 ## Design
 ## Color scheme
 
 ![SA Flag](/assets/images/readme/)
 
-My website's color scheme is inspired by the vibrant and diverse colors of the South African flag. The use of these colors not only enhances the visual appeal of my site but also reflects the rich cultural heritage and natural beauty of South Africa. To ensure readability and accessibility, I have adjusted the darker shades to provide better contrast.
+My website's color scheme is inspired by the vibrant and diverse colors of the South African flag. The use of these colors not only enhances the visual appeal of my site but also reflects the rich cultural heritage and natural beauty of South Africa. 
 
 To enhance accessibility and ensure that all users, including those with visual impairments, can comfortably interact with our website, I have adjusted the darker shades of the color palette. This approach ensures that there is sufficient contrast between text and background elements, making the content easy to read and navigate.
 
