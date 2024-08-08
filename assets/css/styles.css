@@ -127,8 +127,7 @@ header a {
 /* Main content */
 main {
     background-color: rgb(2, 51, 2);
-    flex: 1 0 auto;
-    margin-top: 60px; /* To avoid content being hidden behind the fixed header */
+    flex: 1 0 auto;    
 }
 /* Hero Section */
 .hero-container {
@@ -141,8 +140,7 @@ main {
 .hero {
     
     height: 400px;
-    width: 100%;
-    max-width: 1200px; /* Max width for the box */
+    width: 100%;    
     display: flex;
     align-items: center;
     justify-content: center;    
@@ -192,7 +190,7 @@ footer {
 
 
 /* Media Queries */
-@media (min-width: 600px) {
+@media (min-width: 768px) {
     .nav-links {
         position: static;
         display: flex;
