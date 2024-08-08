@@ -1,6 +1,6 @@
-![SA Travels website](/assets/images/readme/home-resp.png)
-
 ## South African Travel Guide
+
+![SA Travels website](/assets/images/readme/home-resp.png)
 
 Welcome to the South African Travel Guide, your ultimate resource for exploring the beautiful and diverse landscapes of South Africa. My website is designed to provide you with all the information you need to plan an unforgettable trip, from top destinations and local events to essential travel tips and more. My website comprises of five pages as follows:
 
@@ -33,36 +33,37 @@ I would love to hear from you! The Contact Page features a simple form where you
 
 ## Contents
 
-* [User experience](# User Experience)
-* * User stories
-* Design
-*  * Color scheme
-   * Typography
-   * Imagery
-   * Wireframes
-   * Features
-   * * Home
-     * Destinations
-     * Calendar
-     * Travel tips
-     * Contact
-  * Accessibility
-* Technologies used
-* * Languages used
-  * Frameworks, libraries and programs used
-* Deployment and local development
-* * Deployment
-  * Local Development
-  * * How to fork
-    * How to clone
-* Testing
-* * Solved bugs
-  * Known bugs 
-* Credits
-* * Code used
-  * Content
-  * Media
-  * Acknowledgement
+* [User experience](#user-experience)
+* * [User stories](#user-stories)
+* [Design](#design)
+*  * [Color scheme](#color-scheme)
+   * [Typography](#typography)
+   * [Imagery](#imagery)
+   * [Wireframes](#wireframes)
+   * [Features](#features)
+   * * [Home](#home)
+     * [Destinations](#destinations)
+     * [Calendar](#calender)
+     * [Travel tips](#travel-tips)
+     * [Contact](#contact)
+  * [Accessibility](#accessibility)
+* [Technologies used](#technology-used)
+* * [Languages used](#language-used)
+  * [Frameworks, libraries and programs used](#frameworks-libraries-and-programs-used)
+* [Deployment and local development](#deplayment-and-local-development)
+* * [Deployment](#deployment)
+  * [Local Development](#local-development)
+  * * [How to fork](how-to-fork)
+    * [How to clone](#how-to-clone)
+* [Testing](#testing)
+* * [Solved bugs](#solved-bugs)
+  * [Known bugs](#known-bugs) 
+* [Credits](#credits)
+* * [Code used](#code-used)
+  * [Content](#content)
+  * [Media](#media)
+  * [Acknowledgement](#acknowledgement)
+    
 ## User Experience
 
 ### User stories
@@ -153,7 +154,7 @@ The responsiveness of the site’s support team makes me feel valued as a freque
 ## Design
 ## Color scheme
 
-![SA Flag](/assets/images/readme/)
+![SA Flag](/assets/images/readme/SA_flag.png)
 
 My website's color scheme is inspired by the vibrant and diverse colors of the South African flag. The use of these colors not only enhances the visual appeal of my site but also reflects the rich cultural heritage and natural beauty of South Africa. 
 
