@@ -123,6 +123,10 @@ header a {
 .nav-toggle-label span::after {
     top: 8px;
 }
+.nav-links > li > a.active {
+    background-color: gold; 
+    color: darkgreen;
+    }
 
 /* Main content */
 main {
@@ -516,4 +520,35 @@ h1, p {
         width: 50%;
         padding: 20px;
     }
+}
+.thank-you-container {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.thank-you-container h1 {
+    color: #2E8B57;
+    margin-bottom: 1rem;
+}
+
+.thank-you-container p {
+    margin-bottom: 2rem;
+    color: darkgreen;
+}
+
+.thank-you-container a {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #2E8B57;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    transition: background-color 0.3s ease;
+}
+
+.thank-you-container a:hover {
+    background-color: #1c5e3d;
 }

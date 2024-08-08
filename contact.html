@@ -22,18 +22,20 @@
 <body>
     <!--Header-->
     <header>
-        <a href="index.html" class="logo"><img src="assets/images/logo.jpg" alt="Logo"></a>
+        <a href="index.html" class="logo"><img src="assets/images/logo.jpg" alt=alt="South African Travel Guide Logo"></a>
         <input type="checkbox" id="nav-toggle" class="nav-toggle">
         <label for="nav-toggle" class="nav-toggle-label">
-            <span></span>
+            <span class="sr-only">Toggle navigation</span>
         </label>
+        <nav aria-label="Main navigation">
         <ul class="nav-links">
             <li><a href="index.html">Home</a></li>
             <li><a href="destinations.html">Destinations</a></li>
             <li><a href="tips.html">Travel Tips</a></li>
             <li><a href="calendar.html">Calendar</a></li>
-            <li><a href="contact.html">Contact</a></li>
+            <li><a href="contact.html" class="active">Contact</a></li>
         </ul>
+        </nav>
     </header>
 
     <!--Main content-->
@@ -45,7 +47,7 @@
                     back to you or just leave a message.</p>
             </div>
             <div id="contact-right">
-                <form>
+                <form action="thankyou.html" method="get">
                     <label for="name">Name:</label>
                     <input type="text" id="name" name="name" required>
 
