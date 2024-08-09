@@ -131,7 +131,8 @@ header a {
 /* Main content */
 main {
     background-color: rgb(2, 51, 2);
-    flex: 1 0 auto;    
+    flex: 1 0 auto;  
+    margin-top: 60px;  
 }
 /* Hero Section */
 .hero-container {
