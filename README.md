@@ -1,6 +1,6 @@
 ## South African Travel Guide
 
-![SA Travels website](/assets/images/readme/home-resp.png)
+![SA Travels website](/assets/images/readme/home.png)
 
 Welcome to the South African Travel Guide, your ultimate resource for exploring the beautiful and diverse landscapes of South Africa. My website is designed to provide you with all the information you need to plan an unforgettable trip, from top destinations and local events to essential travel tips and more. My website comprises of five pages as follows:
 
@@ -154,22 +154,92 @@ The responsiveness of the site’s support team makes me feel valued as a freque
 ## Design
 ## Color scheme
 
-![SA Flag](/assets/images/readme/SA_flag.png)
+![SA Flag](/assets/images/readme/sa-flag.png)
 
 My website's color scheme is inspired by the vibrant and diverse colors of the South African flag. The use of these colors not only enhances the visual appeal of my site but also reflects the rich cultural heritage and natural beauty of South Africa. 
 
 To enhance accessibility and ensure that all users, including those with visual impairments, can comfortably interact with our website, I have adjusted the darker shades of the color palette. This approach ensures that there is sufficient contrast between text and background elements, making the content easy to read and navigate.
 
    ### Typography
+The typography on the website is thoughtfully designed to create a user-friendly experience while reinforcing the brand's identity and making the content easy to read and engaging. 
+
+##### Font Choices
+
+The primary font used across the website is 'Poppins' from Google fonts. It is modern, clean, and easy to read. This choice reflects the site's professional and approachable tone, making it accessible to a broad audience.
+
+##### Readability
+
+The font sizes are appropriately chosen for different elements, with larger sizes for headings and a comfortable size for body text. This ensures that users can easily read the content without straining their eyes, whether they are on a desktop or mobile device.
+   
    ### Imagery
-   ### Wireframes
-   ### Features
+
+   The SA website uses imagery effectively to enhance the user experience and convey the beauty and diversity of South Africa. Here are some key points about the imagery on the site:
+
+##### High-Quality Visuals
+
+* The website features high-resolution images that capture the stunning landscapes, vibrant cities, and unique wildlife of South Africa. * These visuals are integral to engaging users and inspiring them to explore the country.
+* The hero image on the homepage particularly striking, setting the tone for the overall aesthetic of the site and creating a strong visual impact upon entry. It is an image of the City of Cape Town.
+  
+##### Relevant and Thematic Imagery
+
+* Each image is carefully selected to match the theme of the page or section it represents. For example, the Calendar page features a typical weather for each month, while the Destinations features scenic photos of beaches, mountains, and cultural landmarks.
+* This thematic consistency helps reinforce the content and provides users with a visually cohesive experience as they navigate the site.
+
+##### Enhancing User Engagement
+
+* The imagery is used not just decoratively but functionally, helping to break up text and make the content more engaging. This balance between text and visuals keeps users interested and encourages them to spend more time exploring the site.
+* Interactive elements, like clickable images are also visually enhanced, making it easy for users to interact with the site’s features.
+
+  ### Wireframes
+
+  ### Features
      #### Home
+  
+* Logo and Branding: The homepage prominently features the SA Travels logo, establishing a strong brand identity.
+Navigation Bar: An intuitive and responsive navigation bar allows users to easily access different sections of the website, including Destinations, Travel Tips, Calendar, and Contact.
+* Hero Section: A visually appealing hero section captures the essence of South Africa's natural beauty with high-quality images and compelling text that invites visitors to explore more.
+  
      #### Destinations
+
+* Detailed Destination Guides: The Destinations page provides in-depth information about key travel spots across South Africa. Each destination is presented with stunning visuals, descriptions, and insights into what makes it unique.
+*User-Friendly Layout: The layout is clean and easy to navigate, ensuring that users can quickly find the information they need to plan their travels.
+
      #### Calendar
+
+* Event Listings: The Calendar page highlights key events, festivals, and activities happening throughout South Africa. It is a valuable resource for travelers who want to experience local culture and festivities during their visit.
+* Monthly View: Users can view events by month, helping them to plan their trips around specific dates or seasons.
+* Event Descriptions: Each event is accompanied by a brief description and a link to a website where the user can get more information about the event.
+  
      #### Travel tips
+
+* Essential Advice for Travelers: The Travel Tips page offers a wealth of information designed to help travelers make the most of their journey. This includes advice on packing, safety, local customs, and more.
+* Well-Organized Content: Tips are presented in a structured format, making it easy for users to absorb the information and apply it to their travel plans.
+  
      #### Contact
+
+* Easy Communication: The Contact page provides a simple form that allows visitors to reach out with inquiries, feedback, or requests for more information.
+* Responsive Design: The form is designed to be user-friendly on all devices, ensuring that users can get in touch with the SA Travels team regardless of how they access the site.
+* Thank You Page: After submitting the form, users are redirected to a "Thank You" page, confirming that their message has been successfully sent.
+
   ### Accessibility
+
+The website demonstrates a strong commitment to accessibility, ensuring that all users, including those with disabilities, can navigate and interact with the content effectively. Here’s an overview of the accessibility features integrated into the site:
+
+* Proper Use of HTML Tags: The website utilizes semantic HTML elements like <header>, <nav>, <main>, and <footer>, which provide clear structure and meaning to the content. This helps screen readers and other assistive technologies understand the page's layout and navigate it more easily.
+* ARIA Landmarks: Where necessary, ARIA (Accessible Rich Internet Applications) roles and landmarks are used to enhance the accessibility of interactive elements and to provide additional context to assistive technologies.
+* Tab Navigation: The site is fully navigable using the keyboard, allowing users to tab through links, form fields, and buttons without requiring a mouse. This is crucial for users with mobility impairments or those who rely on keyboard shortcuts.
+* Focus Indicators: Visible focus indicators highlight which element is currently selected, ensuring that keyboard users can easily track their position on the page and interact with the site efficiently.
+* Alt Text for Images: All images on the website include descriptive alt text, providing context for users who are visually impaired and rely on screen readers. This ensures that essential visual content is accessible to everyone, even if they cannot see the images.
+* Functional Graphics: Icons and images that serve a functional purpose (e.g., buttons, logos) are also labeled with appropriate alt text, ensuring they are accessible and understandable.
+* High Contrast Design: The website features a color scheme that offers sufficient contrast between text and background colors, making it easier for users with visual impairments to read the content. This also benefits users viewing the site in various lighting conditions or on different devices.
+* Avoidance of Color-Dependent Information: Information is not solely conveyed through color, ensuring that users with color blindness or other visual impairments can still access all content. For example, important links and buttons are not just distinguished by color but also by underline or bold text.
+* Adaptive Layout: The website is designed to be responsive, meaning it adjusts to different screen sizes and devices. This is crucial for accessibility, as it ensures that content is readable and navigable on smartphones, tablets, and desktop computers alike.
+* Flexible Text and Media: Text and images scale appropriately depending on the device being used, preventing issues such as tiny text on small screens or overly large images on desktops.
+* Labels and Instructions: All form fields on the contact page are clearly labeled, with instructions provided where necessary. This helps users understand what information is required and reduces the likelihood of errors.
+* Error Prevention and Feedback: The forms are designed to prevent errors by requiring certain fields and validating inputs (e.g., email addresses). When an error occurs, clear feedback is provided, allowing users to correct their submissions easily.
+* Alt Text for Visual Content: Multimedia content, like images, includes descriptive alt text, ensuring that users with visual impairments can still access the information conveyed by these elements.
+* Text-Based Content: The website primarily relies on text-based content, which is naturally more accessible, but when multimedia is used, it is done so in a way that supports accessibility guidelines.
+  
 ## Technologies used
   ### Languages used
   ### Frameworks, libraries and programs used
