@@ -80,11 +80,11 @@ Am I Responsive was used and these are the results:
 
 #### Calendar page
 
-![SA Travels website](/assets/images/readme/calendar.png)
+![SA Travels website](/assets/images/readme/calender.png)
 
 #### Travel Tips page
 
-![SA Travels website](/assets/images/readme/tips.png)
+![SA Travels website](/assets/images/readme/traveltips.png)
 
 #### Contact page
 
