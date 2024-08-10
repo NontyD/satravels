@@ -105,6 +105,10 @@ W3C was used to validate the HTML on all pages of the website. It was also used 
 
 ![SA Travels website](/assets/images/readme/css-check.png)
 
+### Light House
+
+![SA Travels website](/assets/images/readme/lighthouse.png)
+
 
 
 
