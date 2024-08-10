@@ -94,6 +94,17 @@ Am I Responsive was used and these are the results:
 
 ![SA Travels website](/assets/images/readme/thankyou.png)
 
+### W3C Validator
+W3C was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
+
+### HTML
+
+![SA Travels website](/assets/images/readme/html-check.png)
+
+### CSS
+
+![SA Travels website](/assets/images/readme/css-check.png)
+
 
 
 
