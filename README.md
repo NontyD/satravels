@@ -194,15 +194,15 @@ The font sizes are appropriately chosen for different elements, with larger size
 
 Wireframes for desktop were created using balsamiq. The wireframes were the initial idea which has since changed as I got some inspirations.
 
-![Home](/assets/images/wireframes/home.png)
+![Home](/assets/images/wireframes/wireframe-home.png)
 
-![Attractions](/assets/images/wireframes/attractions.png)
+![Attractions](/assets/images/wireframes/wireframe-attractions.png)
 
-![Wildlife](/assets/images/wireframes/wildlife.png)
+![Wildlife](/assets/images/wireframes/wireframe-wildlife.png)
 
-![Culture](/assets/images/wireframes/culture.png)
+![Culture](/assets/images/wireframes/wireframe-culture.png)
 
-![Contact](/assets/images/wireframes/contact.png)
+![Contact](/assets/images/wireframes/wireframe-contact.png)
 
 
   ### Features
