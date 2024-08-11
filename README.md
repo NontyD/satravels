@@ -2,6 +2,10 @@
 
 ![SA Travels website](/assets/images/readme/home.png)
 
+[SA Travels](https://nontyd.github.io/satravels/)
+
+Created by [Nonty Dazana](https://github.com/NontyD/satravels/)
+
 Welcome to the South African Travel Guide, your ultimate resource for exploring the beautiful and diverse landscapes of South Africa. My website is designed to provide you with all the information you need to plan an unforgettable trip, from top destinations and local events to essential travel tips and more. My website comprises of five pages as follows:
 
 ### Home
@@ -327,10 +331,36 @@ Please refer to [TESTING.md](TESTING.md) file for all testing carried out.
 #### Solved bugs
   #### Known bugs 
 ## Credits
+
 ### Code used
+
+* I used to create my destI used [this You Tube tutorial](https://www.youtube.com/watch?v=eKu0AW8kXtw) to learn how to create flip cards on hover with pure css which I used for destinations cards.
+* I used to create my destI used [this You Tube tutorial](https://www.youtube.com/watch?v=dHHmFHI0pNw) to learn how to create flip cards on click with pure css which I used for calendar cards.
+* Code Institute Love running project was used as an inspiration for the project.
+* [W3 Schools](https://www.w3schools.com/html/html_css.asp) was used for reference.
+* [Stack Overflow](https://stackoverflow.com/) was also used for reference.
+
+
   ### Content
+
+The contect of the website was generation from [ChatGPT](https://chatgpt.com/) and some from my own knowledge.
+  
   ### Media
+  
+ * [Pixabay](https://pixabay.com/) was used for images
+ * [YouTube](https://www.youtube.com/watch?v=11ToSQh8qbw) is the embedded video in the website.
+  
   ### Acknowledgement
+
+  I would like to acknowledge the following people:
+
+  * My mentor Jubril Akolade
+  * My Hackathon teammates
+  * * Rachel
+    * Aliona
+    * Rodrigo
+    * Erin
+  * My friends who helped me with testing.
 
 
 
