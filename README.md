@@ -240,15 +240,77 @@ The website demonstrates a strong commitment to accessibility, ensuring that all
 * Alt Text for Visual Content: Multimedia content, like images, includes descriptive alt text, ensuring that users with visual impairments can still access the information conveyed by these elements.
 * Text-Based Content: The website primarily relies on text-based content, which is naturally more accessible, but when multimedia is used, it is done so in a way that supports accessibility guidelines.
   
-## Technologies used
-  ### Languages used
-  ### Frameworks, libraries and programs used
-## Deployment and local development
+## Technologies Used
+
+### Languages Used
+
+HTML and CSS
+
+### Frameworks, Libraries & Programs Used
+
+* [Balsamiq](https://balsamiq.com/) - Used to create wireframes.
+
+* [Github](https://github.com/) - To save and store the files for the website.
+
+* [GitPod](https://gitpod.io/) - IDE used to create the site.
+
+* [Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
+
+* [Google Developer Tools](https://developers.google.com/web/tools) - To troubleshoot and test features, solve issues with responsiveness and styling.
+
+* [TinyPNG](https://tinypng.com/) To compress images
+
+* [Invideo](https://invideo.io/ai/) To compress the video
+
+* [Favicon.io](https://favicon.io/) To create favicon.
+
+* [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
+
+* [Lighthouse Metrics](https://lighthouse-metrics.com/) To test performance
+
+* [ChatGPT](https://chatgpt.com/) To generate text content
+  
+## Deployment & Local Development
+
 ### Deployment
-  ### Local Development
-#### How to fork
-    #### How to clone
-### Testing
+
+The site is deployed using GitHub Pages - [SA Travels](https://nontyd.github.io/satravels/).
+
+To Deploy the site using GitHub Pages:
+
+1. Login (or signup) to Github.
+2. Go to the repository for this project, [nontyd/satravels](https://github.com/nontyd/satravels).
+3. Click the settings button.
+4. Select pages in the left hand navigation menu.
+5. From the source dropdown select main branch and press save.
+6. The site has now been deployed, please note that this process may take a few minutes before the site goes live.
+
+### Local Development
+
+#### How to Fork
+
+To fork the repository:
+
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, [nontyd/satravels](https://github.com/nontyd/satravels)
+3. Click the Fork button in the top right corner.
+
+#### How to Clone
+
+To clone the repository:
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, [nontyd/satravels](https://github.com/nontyd/satravels)
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+
+- - -
+
+## Testing
+
+Please refer to [TESTING.md](TESTING.md) file for all testing carried out.
+
 #### Solved bugs
   #### Known bugs 
 ## Credits
