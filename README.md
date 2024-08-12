@@ -316,27 +316,23 @@ To Deploy the site using GitHub Pages:
 To fork the repository:
 
 1. Log in (or sign up) to Github.
-2. Go to the repository for this project, [nontyd/satravels](https://github.com/nontyd/satravels)
-3. Click the Fork button in the top right corner.
+2. Find the repository you want to fork by either searching for it using the search bar or by directly navigating to its URL.
+3. Once you're on the repository's main page, locate the "Fork" button in the upper-right corner of the page, usually next to the "Star" button.
+4. Click on the "Fork" button.
 
 #### How to Clone
 
 To clone the repository:
 
-1. Log in (or sign up) to GitHub.
-2. Go to the repository for this project, [nontyd/satravels](https://github.com/nontyd/satravels)
-3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
-4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
-5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
-
-- - -
+* Click on the "Code" button in your forked repository.
+* Copy the repository URL (HTTPS, SSH, or GitHub CLI).
+* Open a terminal (or command prompt) on your computer.
+* Run the following command: git clone <github.com/nontyd/satravels>
 
 ## Testing
 
 Please refer to [TESTING.md](TESTING.md) file for all testing carried out.
 
-#### Solved bugs
-  #### Known bugs 
 ## Credits
 
 ### Code used
