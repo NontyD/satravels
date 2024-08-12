@@ -210,18 +210,18 @@ Wireframes for desktop were created using balsamiq. The wireframes were the init
 
 
   ### Features
-     #### Home
+  #### Home
   
 * Logo and Branding: The homepage prominently features the SA Travels logo, establishing a strong brand identity.
-![SA Flag](/assets/images/readme/header.png)
+![Header](/assets/images/readme/header.png)
 * Navigation Bar: An intuitive and responsive navigation bar allows users to easily access different sections of the website, including Destinations, Travel Tips, Calendar, and Contact.
-![SA Flag](/assets/images/readme/hero-section.png)
+![Hero](/assets/images/readme/hero-section.png)
 * Hero Section: A visually appealing hero section captures the essence of South Africa's natural beauty with high-quality images and compelling text that invites visitors to explore more.
   
      #### Destinations
 
 * Detailed Destination Guides: The Destinations page provides in-depth information about key travel spots across South Africa. Each destination is presented with stunning visuals, descriptions, and insights into what makes it unique.
-![SA Flag](/assets/images/readme/destinations-card.png)
+![Destinations](/assets/images/readme/destinations-card.png)
 *User-Friendly Layout: The layout is clean and easy to navigate, ensuring that users can quickly find the information they need to plan their travels.
 
      #### Calendar
@@ -229,21 +229,23 @@ Wireframes for desktop were created using balsamiq. The wireframes were the init
 * Event Listings: The Calendar page highlights key events, festivals, and activities happening throughout South Africa. It is a valuable resource for travelers who want to experience local culture and festivities during their visit.
 * Monthly View: Users can view events by month, helping them to plan their trips around specific dates or seasons.
 * Event Descriptions: Each event is accompanied by a brief description and a link to a website where the user can get more information about the event.
-![SA Flag](/assets/images/readme/calendar-cards.png)
+![Calendar](/assets/images/readme/calendar-cards.png)
   
      #### Travel tips
 
 * Essential Advice for Travelers: The Travel Tips page offers a wealth of information designed to help travelers make the most of their journey. This includes advice on packing, safety, local customs, and more.
 * Well-Organized Content: Tips are presented in a structured format, making it easy for users to absorb the information and apply it to their travel plans.
-![SA Flag](/assets/images/readme/tips-cards.png)
+![Travel Tips](/assets/images/readme/tips-cards.png)
   
      #### Contact
 
 * Easy Communication: The Contact page provides a simple form that allows visitors to reach out with inquiries, feedback, or requests for more information.
-![SA Flag](/assets/images/readme/contact-email-format.png)
+![Contact](/assets/images/readme/contact-email-format.png)
 * Responsive Design: The form is designed to be user-friendly on all devices, ensuring that users can get in touch with the SA Travels team regardless of how they access the site.
 * Thank You Page: After submitting the form, users are redirected to a "Thank You" page, confirming that their message has been successfully sent.
-![SA Flag](/assets/images/readme/thank.png)
+![Thank You](/assets/images/readme/thank.png)
+* Footer: The footer has links to social media pages.
+![Footer](/assets/images/readme/thank.png)
 
   ### Accessibility
 
