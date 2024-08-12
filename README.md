@@ -60,8 +60,6 @@ I would love to hear from you! The Contact Page features a simple form where you
   * * [How to fork](how-to-fork)
     * [How to clone](#how-to-clone)
 * [Testing](#testing)
-* * [Solved bugs](#solved-bugs)
-  * [Known bugs](#known-bugs) 
 * [Credits](#credits)
 * * [Code used](#code-used)
   * [Content](#content)
@@ -245,7 +243,7 @@ Wireframes for desktop were created using balsamiq. The wireframes were the init
 * Thank You Page: After submitting the form, users are redirected to a "Thank You" page, confirming that their message has been successfully sent.
 ![Thank You](/assets/images/readme/thank.png)
 * Footer: The footer has links to social media pages.
-![Footer](/assets/images/readme/thank.png)
+![Footer](/assets/images/readme/footer.png)
 
   ### Accessibility
 
